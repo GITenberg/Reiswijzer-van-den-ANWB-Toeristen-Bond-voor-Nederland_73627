@@ -1,0 +1,26 @@
+_repo: Reiswijzer-van-den-ANWB-Toeristen-Bond-voor-Nederland_73627
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nieuwenhuijs, H. G.
+    gutenberg_agent_id: '57160'
+    url: http://www.gutenberg.org/2009/agents/57160
+description: ''
+gutenberg_issued: '2024-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73627'
+language: nl
+pgterms:marc905: 20190511015522nieuwenhui
+pgterms:marc906: '1917'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: '  $aSchiedam :$bH. A. M. Roelants, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Reiswijzer van den A.N.W.B., Toeristen-Bond voor Nederland
+url: http://www.gutenberg.org/ebooks/73627
